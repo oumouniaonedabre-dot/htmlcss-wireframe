@@ -1,0 +1,58 @@
+
+* {
+  margin: 0;           
+  padding: 0;          
+  box-sizing: border-box; 
+}
+
+body {
+  width: 512px;             
+  margin: 0 auto;           
+  border: 2px dashed black; 
+  font-family: serif;       
+  background-color: #eeeeee; 
+}
+
+
+header {
+  padding: 16px;                 
+  border-bottom: 2px solid black; 
+}
+
+
+header h1 {
+  font-size: 32px;  
+}
+
+
+main {
+  padding: 16px; 
+}
+
+
+.card {
+  border: 2px solid black; 
+  padding: 16px;           
+  margin-bottom: 16px;     
+  background-color: #f5f5f5;
+  min-height: 140px; 
+  }
+
+
+.card h2 {
+  font-size: 24px;   
+  margin-bottom: 8px; 
+}
+
+
+.card p {
+  font-size: 16px;
+  line-height: 1.4; 
+}
+
+
+footer {
+  border-top: 2px solid black; 
+  padding: 16px;
+}
+
